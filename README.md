@@ -46,10 +46,6 @@ Fake_News_Detection_LSTM/
 │
 ├── data/                # Dataset CSV files
 ├── models/              # Saved models
-├── preprocessing/       # Preprocessing scripts
-├── notebooks/           # Jupyter notebooks
-├── app/                 # Flask app for predictions
-├── utils/               # Utility scripts
 └── README.md
 ```
 
@@ -57,15 +53,8 @@ Fake_News_Detection_LSTM/
 
 ### Training the Model
 ```bash
-python train.py
+python Fake_News_Detection_with_LSTM.py
 ```
-
-### Running the Flask App
-```bash
-cd app
-python app.py
-```
-Open your browser at `http://127.0.0.1:5000/`.
 
 ## 8. Evaluation Metrics
 
