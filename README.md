@@ -44,8 +44,8 @@ The model consists of:
 ```
 Fake_News_Detection_LSTM/
 │
-├── data/                # Dataset CSV files
-├── models/              # Saved models
+├── Dataset/                # Dataset CSV files
+├── Model Building/              # Saved models
 └── README.md
 ```
 
