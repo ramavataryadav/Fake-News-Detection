@@ -1,4 +1,4 @@
-# Fake-News-Detection-Using-LSTM
+# Fake-News-Detection
 
 ## 1. Introduction
 
