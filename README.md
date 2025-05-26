@@ -12,6 +12,24 @@ We implement a text classification pipeline that includes:
 - LSTM model for sequence classification
 - Evaluation using standard metrics
 - Flask web interface for real-time predictions
+[Import Libraries](#1)
+1. [Load and Check Data](#2)
+2. [Visualization](#3)
+3. [Data Cleaning](#4)
+    * [Removal of HTML Contents](#5)
+    * [Removal of Punctuation Marks and Special Characters](#6)
+    * [Removal of Stopwords](#7)
+    * [Lemmatization](#8)
+    * [Perform it for all the examples](#9)  
+4. [N-Gram Analysis](#10)
+    * [Unigram Analysis](#11)
+    * [Bigram Analysis](#12)
+    * [Trigram Analysis](#13)
+5. [Modeling](#14)
+    * [Train - Test Split](#15)
+    * [Tokenizing](#16)
+    * [Training LSTM Model](#17)
+    * [Analysis After Training](#18) 
 
 ## 3. Dataset
 
